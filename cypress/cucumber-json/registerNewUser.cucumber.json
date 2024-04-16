@@ -1,0 +1,762 @@
+[
+  {
+    "keyword": "Funcionalidade",
+    "name": "Register New User",
+    "line": 2,
+    "id": "register-new-user",
+    "tags": [],
+    "uri": "registerNewUser.feature",
+    "elements": [
+      {
+        "id": "register-new-user;successful-registration",
+        "keyword": "Scenario",
+        "line": 4,
+        "name": "Successful Registration",
+        "tags": [],
+        "type": "scenario",
+        "steps": [
+          {
+            "arguments": [],
+            "keyword": "Dado ",
+            "line": 5,
+            "name": "que estou na página de cadastro",
+            "result": {
+              "status": "passed",
+              "duration": 2070000000
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "E ",
+            "line": 6,
+            "name": "que estou na página de cadastro",
+            "result": {
+              "status": "passed",
+              "duration": 946000000
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "Quando ",
+            "line": 7,
+            "name": "preencho o campo 'Nome' com 'Fulano'",
+            "result": {
+              "status": "passed",
+              "duration": 513000000
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "E ",
+            "line": 8,
+            "name": "preencho o campo 'Sobrenome' com 'Silva'",
+            "result": {
+              "status": "passed",
+              "duration": 399000000
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "E ",
+            "line": 9,
+            "name": "preencho o campo 'Data de nascimento' com '01011990'",
+            "result": {
+              "status": "passed",
+              "duration": 455000000
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "E ",
+            "line": 10,
+            "name": "preencho o campo 'CPF' com 'cpf'",
+            "result": {
+              "status": "passed",
+              "duration": 550000000
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "E ",
+            "line": 11,
+            "name": "preencho o campo 'E-mail' com 'email'",
+            "result": {
+              "status": "passed",
+              "duration": 750000000
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "E ",
+            "line": 12,
+            "name": "preencho o campo 'Confirme seu E-mail' com 'confirme email'",
+            "result": {
+              "status": "passed",
+              "duration": 733000000
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "E ",
+            "line": 13,
+            "name": "preencho o campo 'Senha' com 'senha123'",
+            "result": {
+              "status": "passed",
+              "duration": 567000000
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "E ",
+            "line": 14,
+            "name": "preencho o campo 'Confirme sua senha' com 'senha123'",
+            "result": {
+              "status": "passed",
+              "duration": 511000000
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "E ",
+            "line": 15,
+            "name": "seleciono o nível de proficiência na língua inglesa como 'Advanced'",
+            "result": {
+              "status": "passed",
+              "duration": 339000000
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "E ",
+            "line": 16,
+            "name": "concordo com os Termos de Uso e Política de Privacidade",
+            "result": {
+              "status": "passed",
+              "duration": 2526000000
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "E ",
+            "line": 17,
+            "name": "seleciono o botão 'buttonNextFirstPage'",
+            "result": {
+              "status": "passed",
+              "duration": 141000000
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "E ",
+            "line": 18,
+            "name": "vejo o texto 'Endereço' para seguir com o cadastro",
+            "result": {
+              "status": "passed",
+              "duration": 55000000
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "E ",
+            "line": 19,
+            "name": "preencho o campo 'CEP' com '96208-660'",
+            "result": {
+              "status": "passed",
+              "duration": 595000000
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "E ",
+            "line": 20,
+            "name": "preencho o campo 'Número residencial' com '90'",
+            "result": {
+              "status": "passed",
+              "duration": 483000000
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "E ",
+            "line": 21,
+            "name": "seleciono o botão 'buttonNextSecondPage'",
+            "result": {
+              "status": "passed",
+              "duration": 556000000
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "Então ",
+            "line": 22,
+            "name": "vejo o texto 'Thank you for joining us!' de cadastro realizado com sucesso",
+            "result": {
+              "status": "passed",
+              "duration": 462000000
+            }
+          }
+        ]
+      },
+      {
+        "id": "register-new-user;invalid-cpf-registration-failure",
+        "keyword": "Scenario",
+        "line": 24,
+        "name": "Invalid CPF registration Failure",
+        "tags": [],
+        "type": "scenario",
+        "steps": [
+          {
+            "arguments": [],
+            "keyword": "Dado ",
+            "line": 25,
+            "name": "que estou na página de cadastro",
+            "result": {
+              "status": "passed",
+              "duration": 615000000
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "Quando ",
+            "line": 26,
+            "name": "preencho o campo 'Nome' com 'Fulano'",
+            "result": {
+              "status": "passed",
+              "duration": 350000000
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "E ",
+            "line": 27,
+            "name": "preencho o campo 'Sobrenome' com 'Silva'",
+            "result": {
+              "status": "passed",
+              "duration": 327000000
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "E ",
+            "line": 28,
+            "name": "preencho o campo 'Data de nascimento' com '01011990'",
+            "result": {
+              "status": "passed",
+              "duration": 372000000
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "E ",
+            "line": 29,
+            "name": "preencho o campo 'CPF' com '12345678900'",
+            "result": {
+              "status": "passed",
+              "duration": 397000000
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "E ",
+            "line": 30,
+            "name": "preencho o campo 'E-mail' com 'email'",
+            "result": {
+              "status": "passed",
+              "duration": 654000000
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "E ",
+            "line": 31,
+            "name": "preencho o campo 'Confirme seu E-mail' com 'confirme email'",
+            "result": {
+              "status": "passed",
+              "duration": 667000000
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "E ",
+            "line": 32,
+            "name": "preencho o campo 'Senha' com 'senha123'",
+            "result": {
+              "status": "passed",
+              "duration": 362000000
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "E ",
+            "line": 33,
+            "name": "preencho o campo 'Confirme sua senha' com 'senha123'",
+            "result": {
+              "status": "passed",
+              "duration": 380000000
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "E ",
+            "line": 34,
+            "name": "seleciono o nível de proficiência na língua inglesa como 'Advanced'",
+            "result": {
+              "status": "passed",
+              "duration": 234000000
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "E ",
+            "line": 35,
+            "name": "concordo com os Termos de Uso e Política de Privacidade",
+            "result": {
+              "status": "passed",
+              "duration": 2355000000
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "E ",
+            "line": 36,
+            "name": "seleciono o botão 'buttonNextFirstPage'",
+            "result": {
+              "status": "passed",
+              "duration": 172000000
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "Então ",
+            "line": 37,
+            "name": "vejo a mensagem de erro 'CPF inválido.'",
+            "result": {
+              "status": "passed",
+              "duration": 31000000
+            }
+          }
+        ]
+      },
+      {
+        "id": "register-new-user;registration-failed-due-to-missing-last-name",
+        "keyword": "Scenario",
+        "line": 39,
+        "name": "Registration failed due to missing last name",
+        "tags": [],
+        "type": "scenario",
+        "steps": [
+          {
+            "arguments": [],
+            "keyword": "Dado ",
+            "line": 40,
+            "name": "que estou na página de cadastro",
+            "result": {
+              "status": "passed",
+              "duration": 1086000000
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "Quando ",
+            "line": 41,
+            "name": "preencho o campo 'Nome' com 'Fulano'",
+            "result": {
+              "status": "passed",
+              "duration": 325000000
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "E ",
+            "line": 42,
+            "name": "preencho o campo 'Sobrenome' com '  '",
+            "result": {
+              "status": "passed",
+              "duration": 271000000
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "E ",
+            "line": 43,
+            "name": "preencho o campo 'Data de nascimento' com '01011990'",
+            "result": {
+              "status": "passed",
+              "duration": 346000000
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "E ",
+            "line": 44,
+            "name": "preencho o campo 'CPF' com 'cpf'",
+            "result": {
+              "status": "passed",
+              "duration": 419000000
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "E ",
+            "line": 45,
+            "name": "preencho o campo 'E-mail' com 'email'",
+            "result": {
+              "status": "passed",
+              "duration": 432000000
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "E ",
+            "line": 46,
+            "name": "preencho o campo 'Confirme seu E-mail' com 'confirme email'",
+            "result": {
+              "status": "passed",
+              "duration": 419000000
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "E ",
+            "line": 47,
+            "name": "preencho o campo 'Senha' com 'senha123'",
+            "result": {
+              "status": "passed",
+              "duration": 351000000
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "E ",
+            "line": 48,
+            "name": "preencho o campo 'Confirme sua senha' com 'senha123'",
+            "result": {
+              "status": "passed",
+              "duration": 333000000
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "E ",
+            "line": 49,
+            "name": "seleciono o nível de proficiência na língua inglesa como 'Advanced'",
+            "result": {
+              "status": "passed",
+              "duration": 200000000
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "E ",
+            "line": 50,
+            "name": "concordo com os Termos de Uso e Política de Privacidade",
+            "result": {
+              "status": "passed",
+              "duration": 2318000000
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "E ",
+            "line": 51,
+            "name": "seleciono o botão 'buttonNextFirstPage'",
+            "result": {
+              "status": "passed",
+              "duration": 108000000
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "Então ",
+            "line": 52,
+            "name": "vejo a mensagem de erro 'Precisa ser preenchido'",
+            "result": {
+              "status": "failed",
+              "error_message": "AssertionError: Timed out retrying after 40000ms: Expected to find element: `.input-error`, but never found it.\n    at registerNewUserActions.validateErrorMessage (cypress/Script/container/Register new user/Actions/registerNewUserActions.js:56:13)\n    at Context.eval (cypress/Script/container/Register new user/Steps/registerNewUserSteps.js:34:27)\n    at Context.resolveAndRunStepDefinition (node_modules/cypress-cucumber-preprocessor/lib/resolveStepDefinition.js:193:0)\n    at Context.eval (node_modules/cypress-cucumber-preprocessor/lib/createTestFromScenario.js:27:0)"
+            }
+          }
+        ]
+      },
+      {
+        "id": "register-new-user;failed-to-register-incorrect-email-confirmation",
+        "keyword": "Scenario",
+        "line": 54,
+        "name": "Failed to register incorrect email confirmation",
+        "tags": [],
+        "type": "scenario",
+        "steps": [
+          {
+            "arguments": [],
+            "keyword": "Dado ",
+            "line": 55,
+            "name": "que estou na página de cadastro",
+            "result": {
+              "status": "passed",
+              "duration": 1040000000
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "Quando ",
+            "line": 56,
+            "name": "preencho o campo 'Nome' com 'Fulano'",
+            "result": {
+              "status": "passed",
+              "duration": 371000000
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "E ",
+            "line": 57,
+            "name": "preencho o campo 'Sobrenome' com 'Silva'",
+            "result": {
+              "status": "passed",
+              "duration": 300000000
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "E ",
+            "line": 58,
+            "name": "preencho o campo 'Data de nascimento' com '01011990'",
+            "result": {
+              "status": "passed",
+              "duration": 345000000
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "E ",
+            "line": 59,
+            "name": "preencho o campo 'CPF' com 'cpf'",
+            "result": {
+              "status": "passed",
+              "duration": 464000000
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "E ",
+            "line": 60,
+            "name": "preencho o campo 'E-mail' com 'email'",
+            "result": {
+              "status": "passed",
+              "duration": 479000000
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "E ",
+            "line": 61,
+            "name": "preencho o campo 'Confirme seu E-mail' com 'errrrrr'",
+            "result": {
+              "status": "passed",
+              "duration": 329000000
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "E ",
+            "line": 62,
+            "name": "preencho o campo 'Senha' com 'senha123'",
+            "result": {
+              "status": "passed",
+              "duration": 323000000
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "E ",
+            "line": 63,
+            "name": "preencho o campo 'Confirme sua senha' com 'senha123'",
+            "result": {
+              "status": "passed",
+              "duration": 341000000
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "E ",
+            "line": 64,
+            "name": "seleciono o nível de proficiência na língua inglesa como 'Advanced'",
+            "result": {
+              "status": "passed",
+              "duration": 218000000
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "E ",
+            "line": 65,
+            "name": "concordo com os Termos de Uso e Política de Privacidade",
+            "result": {
+              "status": "passed",
+              "duration": 2385000000
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "E ",
+            "line": 66,
+            "name": "seleciono o botão 'buttonNextFirstPage'",
+            "result": {
+              "status": "passed",
+              "duration": 150000000
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "Então ",
+            "line": 67,
+            "name": "vejo a mensagem de erro 'Precisa ser email'",
+            "result": {
+              "status": "passed",
+              "duration": 25000000
+            }
+          }
+        ]
+      },
+      {
+        "id": "register-new-user;failed-to-register-incorrect-password-confirmation",
+        "keyword": "Scenario",
+        "line": 69,
+        "name": "Failed to register incorrect password confirmation",
+        "tags": [],
+        "type": "scenario",
+        "steps": [
+          {
+            "arguments": [],
+            "keyword": "Dado ",
+            "line": 70,
+            "name": "que estou na página de cadastro",
+            "result": {
+              "status": "passed",
+              "duration": 676000000
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "Quando ",
+            "line": 71,
+            "name": "preencho o campo 'Nome' com 'Fulano'",
+            "result": {
+              "status": "passed",
+              "duration": 316000000
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "E ",
+            "line": 72,
+            "name": "preencho o campo 'Sobrenome' com 'Silva'",
+            "result": {
+              "status": "passed",
+              "duration": 306000000
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "E ",
+            "line": 73,
+            "name": "preencho o campo 'Data de nascimento' com '01011990'",
+            "result": {
+              "status": "passed",
+              "duration": 341000000
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "E ",
+            "line": 74,
+            "name": "preencho o campo 'CPF' com 'cpf'",
+            "result": {
+              "status": "passed",
+              "duration": 419000000
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "E ",
+            "line": 75,
+            "name": "preencho o campo 'E-mail' com 'email'",
+            "result": {
+              "status": "passed",
+              "duration": 580000000
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "E ",
+            "line": 76,
+            "name": "preencho o campo 'Confirme seu E-mail' com 'confirme email'",
+            "result": {
+              "status": "passed",
+              "duration": 570000000
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "E ",
+            "line": 77,
+            "name": "preencho o campo 'Senha' com 'perola'",
+            "result": {
+              "status": "passed",
+              "duration": 311000000
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "E ",
+            "line": 78,
+            "name": "preencho o campo 'Confirme sua senha' com '123'",
+            "result": {
+              "status": "passed",
+              "duration": 273000000
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "E ",
+            "line": 79,
+            "name": "seleciono o nível de proficiência na língua inglesa como 'Advanced'",
+            "result": {
+              "status": "passed",
+              "duration": 200000000
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "E ",
+            "line": 80,
+            "name": "concordo com os Termos de Uso e Política de Privacidade",
+            "result": {
+              "status": "passed",
+              "duration": 2357000000
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "E ",
+            "line": 81,
+            "name": "seleciono o botão 'buttonNextFirstPage'",
+            "result": {
+              "status": "passed",
+              "duration": 142000000
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "Então ",
+            "line": 82,
+            "name": "vejo a mensagem de erro 'Insira uma senha válida'",
+            "result": {
+              "status": "failed",
+              "error_message": "AssertionError: Timed out retrying after 40000ms: Expected to find element: `.input-error`, but never found it.\n    at registerNewUserActions.validateErrorMessage (cypress/Script/container/Register new user/Actions/registerNewUserActions.js:56:13)\n    at Context.eval (cypress/Script/container/Register new user/Steps/registerNewUserSteps.js:34:27)\n    at Context.resolveAndRunStepDefinition (node_modules/cypress-cucumber-preprocessor/lib/resolveStepDefinition.js:193:0)\n    at Context.eval (node_modules/cypress-cucumber-preprocessor/lib/createTestFromScenario.js:27:0)"
+            }
+          }
+        ]
+      }
+    ]
+  }
+]

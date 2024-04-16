@@ -1,0 +1,19 @@
+{
+    "registerPageLocators": {
+        "inputNome": "[data-cy=input-signup-personal-data-firstName]",
+        "inputSobrenome": "[data-cy=input-signup-personal-data-lastName]",
+        "inputData de nascimento": "[data-cy=input-signup-personal-data-birthDate]",
+        "inputCPF": "[data-cy=input-signup-personal-data-cpf]",
+        "inputE-mail": "[data-cy=input-signup-personal-data-email]",
+        "inputConfirme seu E-mail": "[data-cy=input-signup-personal-data-email-confirm]",
+        "inputSenha": "[data-cy=input-signup-personal-data-password]",
+        "inputConfirme sua senha": "[data-cy=input-signup-personal-data-password-confirm]",
+        "selectProficienciaIngles": "button[x-ref='button'][aria-expanded='false']",
+        "checkboxTermosUso": "[data-cy=input-signup-personal-data-lgpd]",
+        "inputCEP": "[data-cy=input-signup-address-cep]",
+        "inputNúmero residencial": "[data-cy=input-signup-address-number]",
+        "buttonNextFirstPage": "[data-cy=button-signup_submit_button_1]",
+        "buttonNextSecondPage": "[data-cy=button-signup_submit_button_3]",
+        "messageError": ".input-error"
+    }
+}
