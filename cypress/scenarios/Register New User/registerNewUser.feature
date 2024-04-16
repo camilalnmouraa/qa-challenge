@@ -80,3 +80,5 @@ E seleciono o nível de proficiência na língua inglesa como 'Advanced'
 E concordo com os Termos de Uso e Política de Privacidade
 E seleciono o botão 'buttonNextFirstPage'
 Então vejo a mensagem de erro 'Insira uma senha válida'
+
+#coments
