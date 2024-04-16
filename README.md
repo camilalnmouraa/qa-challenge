@@ -82,3 +82,8 @@ Durante a execução dos testes automatizados, identifiquei dois bugs que precis
   
  
  ------
+
+ <br>
+
+
+ ![Reprodução dos Testes](https://drive.google.com/file/d/1-BHpO7w0868oBYR-L7gOFdIG3ydg0J1t/view?usp=sharing)
