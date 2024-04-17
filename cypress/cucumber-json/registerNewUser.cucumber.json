@@ -22,7 +22,7 @@
             "name": "que estou na página de cadastro",
             "result": {
               "status": "passed",
-              "duration": 2070000000
+              "duration": 3509000000
             }
           },
           {
@@ -32,7 +32,7 @@
             "name": "que estou na página de cadastro",
             "result": {
               "status": "passed",
-              "duration": 946000000
+              "duration": 940000000
             }
           },
           {
@@ -42,7 +42,7 @@
             "name": "preencho o campo 'Nome' com 'Fulano'",
             "result": {
               "status": "passed",
-              "duration": 513000000
+              "duration": 414000000
             }
           },
           {
@@ -52,7 +52,7 @@
             "name": "preencho o campo 'Sobrenome' com 'Silva'",
             "result": {
               "status": "passed",
-              "duration": 399000000
+              "duration": 398000000
             }
           },
           {
@@ -62,7 +62,7 @@
             "name": "preencho o campo 'Data de nascimento' com '01011990'",
             "result": {
               "status": "passed",
-              "duration": 455000000
+              "duration": 439000000
             }
           },
           {
@@ -72,7 +72,7 @@
             "name": "preencho o campo 'CPF' com 'cpf'",
             "result": {
               "status": "passed",
-              "duration": 550000000
+              "duration": 460000000
             }
           },
           {
@@ -82,7 +82,7 @@
             "name": "preencho o campo 'E-mail' com 'email'",
             "result": {
               "status": "passed",
-              "duration": 750000000
+              "duration": 651000000
             }
           },
           {
@@ -92,7 +92,7 @@
             "name": "preencho o campo 'Confirme seu E-mail' com 'confirme email'",
             "result": {
               "status": "passed",
-              "duration": 733000000
+              "duration": 692000000
             }
           },
           {
@@ -102,7 +102,7 @@
             "name": "preencho o campo 'Senha' com 'senha123'",
             "result": {
               "status": "passed",
-              "duration": 567000000
+              "duration": 441000000
             }
           },
           {
@@ -112,7 +112,7 @@
             "name": "preencho o campo 'Confirme sua senha' com 'senha123'",
             "result": {
               "status": "passed",
-              "duration": 511000000
+              "duration": 417000000
             }
           },
           {
@@ -122,7 +122,7 @@
             "name": "seleciono o nível de proficiência na língua inglesa como 'Advanced'",
             "result": {
               "status": "passed",
-              "duration": 339000000
+              "duration": 294000000
             }
           },
           {
@@ -132,7 +132,7 @@
             "name": "concordo com os Termos de Uso e Política de Privacidade",
             "result": {
               "status": "passed",
-              "duration": 2526000000
+              "duration": 2373000000
             }
           },
           {
@@ -142,7 +142,7 @@
             "name": "seleciono o botão 'buttonNextFirstPage'",
             "result": {
               "status": "passed",
-              "duration": 141000000
+              "duration": 150000000
             }
           },
           {
@@ -152,7 +152,7 @@
             "name": "vejo o texto 'Endereço' para seguir com o cadastro",
             "result": {
               "status": "passed",
-              "duration": 55000000
+              "duration": 23000000
             }
           },
           {
@@ -162,7 +162,7 @@
             "name": "preencho o campo 'CEP' com '96208-660'",
             "result": {
               "status": "passed",
-              "duration": 595000000
+              "duration": 569000000
             }
           },
           {
@@ -172,7 +172,7 @@
             "name": "preencho o campo 'Número residencial' com '90'",
             "result": {
               "status": "passed",
-              "duration": 483000000
+              "duration": 387000000
             }
           },
           {
@@ -182,7 +182,7 @@
             "name": "seleciono o botão 'buttonNextSecondPage'",
             "result": {
               "status": "passed",
-              "duration": 556000000
+              "duration": 1001000000
             }
           },
           {
@@ -192,7 +192,7 @@
             "name": "vejo o texto 'Thank you for joining us!' de cadastro realizado com sucesso",
             "result": {
               "status": "passed",
-              "duration": 462000000
+              "duration": 393000000
             }
           }
         ]
@@ -212,7 +212,7 @@
             "name": "que estou na página de cadastro",
             "result": {
               "status": "passed",
-              "duration": 615000000
+              "duration": 593000000
             }
           },
           {
@@ -232,7 +232,7 @@
             "name": "preencho o campo 'Sobrenome' com 'Silva'",
             "result": {
               "status": "passed",
-              "duration": 327000000
+              "duration": 300000000
             }
           },
           {
@@ -242,7 +242,7 @@
             "name": "preencho o campo 'Data de nascimento' com '01011990'",
             "result": {
               "status": "passed",
-              "duration": 372000000
+              "duration": 333000000
             }
           },
           {
@@ -252,7 +252,7 @@
             "name": "preencho o campo 'CPF' com '12345678900'",
             "result": {
               "status": "passed",
-              "duration": 397000000
+              "duration": 389000000
             }
           },
           {
@@ -262,7 +262,7 @@
             "name": "preencho o campo 'E-mail' com 'email'",
             "result": {
               "status": "passed",
-              "duration": 654000000
+              "duration": 578000000
             }
           },
           {
@@ -272,7 +272,7 @@
             "name": "preencho o campo 'Confirme seu E-mail' com 'confirme email'",
             "result": {
               "status": "passed",
-              "duration": 667000000
+              "duration": 552000000
             }
           },
           {
@@ -282,7 +282,7 @@
             "name": "preencho o campo 'Senha' com 'senha123'",
             "result": {
               "status": "passed",
-              "duration": 362000000
+              "duration": 348000000
             }
           },
           {
@@ -292,7 +292,7 @@
             "name": "preencho o campo 'Confirme sua senha' com 'senha123'",
             "result": {
               "status": "passed",
-              "duration": 380000000
+              "duration": 366000000
             }
           },
           {
@@ -302,7 +302,7 @@
             "name": "seleciono o nível de proficiência na língua inglesa como 'Advanced'",
             "result": {
               "status": "passed",
-              "duration": 234000000
+              "duration": 201000000
             }
           },
           {
@@ -312,7 +312,7 @@
             "name": "concordo com os Termos de Uso e Política de Privacidade",
             "result": {
               "status": "passed",
-              "duration": 2355000000
+              "duration": 2341000000
             }
           },
           {
@@ -322,7 +322,7 @@
             "name": "seleciono o botão 'buttonNextFirstPage'",
             "result": {
               "status": "passed",
-              "duration": 172000000
+              "duration": 123000000
             }
           },
           {
@@ -332,7 +332,7 @@
             "name": "vejo a mensagem de erro 'CPF inválido.'",
             "result": {
               "status": "passed",
-              "duration": 31000000
+              "duration": 16000000
             }
           }
         ]
@@ -352,7 +352,7 @@
             "name": "que estou na página de cadastro",
             "result": {
               "status": "passed",
-              "duration": 1086000000
+              "duration": 619000000
             }
           },
           {
@@ -362,7 +362,7 @@
             "name": "preencho o campo 'Nome' com 'Fulano'",
             "result": {
               "status": "passed",
-              "duration": 325000000
+              "duration": 331000000
             }
           },
           {
@@ -372,7 +372,7 @@
             "name": "preencho o campo 'Sobrenome' com '  '",
             "result": {
               "status": "passed",
-              "duration": 271000000
+              "duration": 270000000
             }
           },
           {
@@ -382,7 +382,7 @@
             "name": "preencho o campo 'Data de nascimento' com '01011990'",
             "result": {
               "status": "passed",
-              "duration": 346000000
+              "duration": 377000000
             }
           },
           {
@@ -392,7 +392,7 @@
             "name": "preencho o campo 'CPF' com 'cpf'",
             "result": {
               "status": "passed",
-              "duration": 419000000
+              "duration": 406000000
             }
           },
           {
@@ -402,7 +402,7 @@
             "name": "preencho o campo 'E-mail' com 'email'",
             "result": {
               "status": "passed",
-              "duration": 432000000
+              "duration": 466000000
             }
           },
           {
@@ -412,7 +412,7 @@
             "name": "preencho o campo 'Confirme seu E-mail' com 'confirme email'",
             "result": {
               "status": "passed",
-              "duration": 419000000
+              "duration": 451000000
             }
           },
           {
@@ -422,7 +422,7 @@
             "name": "preencho o campo 'Senha' com 'senha123'",
             "result": {
               "status": "passed",
-              "duration": 351000000
+              "duration": 333000000
             }
           },
           {
@@ -432,7 +432,7 @@
             "name": "preencho o campo 'Confirme sua senha' com 'senha123'",
             "result": {
               "status": "passed",
-              "duration": 333000000
+              "duration": 324000000
             }
           },
           {
@@ -442,7 +442,7 @@
             "name": "seleciono o nível de proficiência na língua inglesa como 'Advanced'",
             "result": {
               "status": "passed",
-              "duration": 200000000
+              "duration": 186000000
             }
           },
           {
@@ -452,7 +452,7 @@
             "name": "concordo com os Termos de Uso e Política de Privacidade",
             "result": {
               "status": "passed",
-              "duration": 2318000000
+              "duration": 2337000000
             }
           },
           {
@@ -462,7 +462,7 @@
             "name": "seleciono o botão 'buttonNextFirstPage'",
             "result": {
               "status": "passed",
-              "duration": 108000000
+              "duration": 120000000
             }
           },
           {
@@ -492,7 +492,7 @@
             "name": "que estou na página de cadastro",
             "result": {
               "status": "passed",
-              "duration": 1040000000
+              "duration": 1967000000
             }
           },
           {
@@ -502,7 +502,7 @@
             "name": "preencho o campo 'Nome' com 'Fulano'",
             "result": {
               "status": "passed",
-              "duration": 371000000
+              "duration": 478000000
             }
           },
           {
@@ -512,7 +512,7 @@
             "name": "preencho o campo 'Sobrenome' com 'Silva'",
             "result": {
               "status": "passed",
-              "duration": 300000000
+              "duration": 506000000
             }
           },
           {
@@ -522,7 +522,7 @@
             "name": "preencho o campo 'Data de nascimento' com '01011990'",
             "result": {
               "status": "passed",
-              "duration": 345000000
+              "duration": 469000000
             }
           },
           {
@@ -532,7 +532,7 @@
             "name": "preencho o campo 'CPF' com 'cpf'",
             "result": {
               "status": "passed",
-              "duration": 464000000
+              "duration": 592000000
             }
           },
           {
@@ -542,7 +542,7 @@
             "name": "preencho o campo 'E-mail' com 'email'",
             "result": {
               "status": "passed",
-              "duration": 479000000
+              "duration": 833000000
             }
           },
           {
@@ -552,7 +552,7 @@
             "name": "preencho o campo 'Confirme seu E-mail' com 'errrrrr'",
             "result": {
               "status": "passed",
-              "duration": 329000000
+              "duration": 507000000
             }
           },
           {
@@ -562,7 +562,7 @@
             "name": "preencho o campo 'Senha' com 'senha123'",
             "result": {
               "status": "passed",
-              "duration": 323000000
+              "duration": 594000000
             }
           },
           {
@@ -572,7 +572,7 @@
             "name": "preencho o campo 'Confirme sua senha' com 'senha123'",
             "result": {
               "status": "passed",
-              "duration": 341000000
+              "duration": 557000000
             }
           },
           {
@@ -582,7 +582,7 @@
             "name": "seleciono o nível de proficiência na língua inglesa como 'Advanced'",
             "result": {
               "status": "passed",
-              "duration": 218000000
+              "duration": 416000000
             }
           },
           {
@@ -592,7 +592,7 @@
             "name": "concordo com os Termos de Uso e Política de Privacidade",
             "result": {
               "status": "passed",
-              "duration": 2385000000
+              "duration": 2433000000
             }
           },
           {
@@ -602,7 +602,7 @@
             "name": "seleciono o botão 'buttonNextFirstPage'",
             "result": {
               "status": "passed",
-              "duration": 150000000
+              "duration": 200000000
             }
           },
           {
@@ -612,7 +612,7 @@
             "name": "vejo a mensagem de erro 'Precisa ser email'",
             "result": {
               "status": "passed",
-              "duration": 25000000
+              "duration": 27000000
             }
           }
         ]
@@ -632,7 +632,7 @@
             "name": "que estou na página de cadastro",
             "result": {
               "status": "passed",
-              "duration": 676000000
+              "duration": 704000000
             }
           },
           {
@@ -642,7 +642,7 @@
             "name": "preencho o campo 'Nome' com 'Fulano'",
             "result": {
               "status": "passed",
-              "duration": 316000000
+              "duration": 369000000
             }
           },
           {
@@ -652,7 +652,7 @@
             "name": "preencho o campo 'Sobrenome' com 'Silva'",
             "result": {
               "status": "passed",
-              "duration": 306000000
+              "duration": 317000000
             }
           },
           {
@@ -662,7 +662,7 @@
             "name": "preencho o campo 'Data de nascimento' com '01011990'",
             "result": {
               "status": "passed",
-              "duration": 341000000
+              "duration": 349000000
             }
           },
           {
@@ -672,7 +672,7 @@
             "name": "preencho o campo 'CPF' com 'cpf'",
             "result": {
               "status": "passed",
-              "duration": 419000000
+              "duration": 417000000
             }
           },
           {
@@ -682,7 +682,7 @@
             "name": "preencho o campo 'E-mail' com 'email'",
             "result": {
               "status": "passed",
-              "duration": 580000000
+              "duration": 632000000
             }
           },
           {
@@ -692,7 +692,7 @@
             "name": "preencho o campo 'Confirme seu E-mail' com 'confirme email'",
             "result": {
               "status": "passed",
-              "duration": 570000000
+              "duration": 602000000
             }
           },
           {
@@ -702,7 +702,7 @@
             "name": "preencho o campo 'Senha' com 'perola'",
             "result": {
               "status": "passed",
-              "duration": 311000000
+              "duration": 316000000
             }
           },
           {
@@ -712,7 +712,7 @@
             "name": "preencho o campo 'Confirme sua senha' com '123'",
             "result": {
               "status": "passed",
-              "duration": 273000000
+              "duration": 285000000
             }
           },
           {
@@ -722,7 +722,7 @@
             "name": "seleciono o nível de proficiência na língua inglesa como 'Advanced'",
             "result": {
               "status": "passed",
-              "duration": 200000000
+              "duration": 215000000
             }
           },
           {
@@ -732,7 +732,7 @@
             "name": "concordo com os Termos de Uso e Política de Privacidade",
             "result": {
               "status": "passed",
-              "duration": 2357000000
+              "duration": 2384000000
             }
           },
           {
@@ -742,7 +742,7 @@
             "name": "seleciono o botão 'buttonNextFirstPage'",
             "result": {
               "status": "passed",
-              "duration": 142000000
+              "duration": 167000000
             }
           },
           {
