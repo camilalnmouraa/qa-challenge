@@ -17,6 +17,7 @@ jobs:
       - name: Cypress tests
         uses: cypress-io/github-action@v6.5.0
         with:
+          working-directory: buildBoxOne
           install-command: npm install
           build: npm run build
           start: npm start
