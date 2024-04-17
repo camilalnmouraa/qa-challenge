@@ -1,14 +1,10 @@
 name: Cypress tests
 
-on:
-  push:
-    branches:
-      - main 
-  workflow_dispatch:
+on: [push]
 
 jobs:
-  tests:
-    runs-on: ubuntu-22.04
+  cypress-run:
+    runs-on: ubuntu-latest
 
     steps:
       - name: Checkout
@@ -17,7 +13,4 @@ jobs:
       - name: Cypress tests
         uses: cypress-io/github-action@v6.5.0
         with:
-          working-directory: buildBoxOne
-          install-command: npm install
-          build: npm run build
-          start: npm start
+          command: npx run cypress
