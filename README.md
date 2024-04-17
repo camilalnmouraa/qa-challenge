@@ -32,7 +32,7 @@ Durante a execução dos testes automatizados, identifiquei dois bugs que precis
 
 <br>
 
-![Bug Screenshot](https://drive.google.com/file/d/15shaQoL1UDNNWtZQoqLsO0XzFwVlXLh-/view?usp=sharing)
+[Bug Screenshot](https://drive.google.com/file/d/15shaQoL1UDNNWtZQoqLsO0XzFwVlXLh-/view?usp=sharing)
 
 
 
@@ -50,7 +50,7 @@ Durante a execução dos testes automatizados, identifiquei dois bugs que precis
 
 <br>
 
-![Bug Screenshot]([URL_da_Imagem](https://drive.google.com/file/d/1-hOYUQmCcFj4V2MVejoRqS0dpxp2aMyS/view?usp=sharing))
+[Bug Screenshot](https://drive.google.com/file/d/1-hOYUQmCcFj4V2MVejoRqS0dpxp2aMyS/view?usp=sharing)
 
 
 
@@ -86,4 +86,4 @@ Durante a execução dos testes automatizados, identifiquei dois bugs que precis
  <br>
 
 
- ![Reprodução dos Testes](https://drive.google.com/file/d/1-BHpO7w0868oBYR-L7gOFdIG3ydg0J1t/view?usp=sharing)
+ [Reprodução dos Testes](https://drive.google.com/file/d/1-BHpO7w0868oBYR-L7gOFdIG3ydg0J1t/view?usp=sharing)
