@@ -17,6 +17,9 @@ jobs:
       - name: Setup Node.js
         uses: actions/setup-node@v4.0.2
 
+      - name: Install cucumber
+        run: npm install cypress-cucumber-preprocessor
+
       - name: Install dependencies
         run: npm install
 
